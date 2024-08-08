@@ -40,7 +40,7 @@ actuellement à la recherche de nouvelles opportunités pour améliorer mes comp
                         <LinkedIn size={14} className="inline" /> LinkedIn
                         </Code>
                     </Link>,
-Pour maintenir et perfectionner mes compétences, j'utilise régulièrement les ressources de W3Schools.
+Pour maintenir et perfectionner mes compétences, j&#39;utilise régulièrement les ressources de W3Schools.
 
             <Link href="https://www.w3schools.com/css/css3_flexbox.asp">
                     <Code className="inline-flex items-center gap-1">
@@ -53,7 +53,7 @@ Pour maintenir et perfectionner mes compétences, j'utilise régulièrement les 
                 <img
                     src="avatar.png"
                     className="w-full h-auto max-w-xs max-md:w-56"
-                    alt="Jeremy's picture"
+                    alt="Jeremy&#39;s picture"
                 />  
             </div>
         </Section>

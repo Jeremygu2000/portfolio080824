@@ -14,7 +14,7 @@ export const Skills = () => {
         <Section className="flex flex-col items-start gap-4">
             <Badge variant="outline" className="text-3xl">Skills</Badge>
             <h2 className="pb-2 text-2xl font-semibold tracking-tight first:mt-0">
-                J'ai travaillé avec ces technologies...
+                J&#39;ai travaillé avec ces technologies...
             </h2>
                 <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
                             <div className="flex flex-col gap-4">
@@ -37,7 +37,7 @@ export const Skills = () => {
                                 <CssLogo size={35} />
                                 <h3 className="mb-2 text-xl font-bold tracking-tight ">CSS</h3>
                                 <p className="text-sm text-muted-foreground">
-                                    J'utilise les sélecteurs <Code>CSS</Code> pour appliquer des styles aux éléments <Code>HTML</Code> et comprendre les concepts de mise en page comme le flexbox et le grid pour créer des mises en page réactives.
+                                    J&#39;utilise les sélecteurs <Code>CSS</Code> pour appliquer des styles aux éléments <Code>HTML</Code> et comprendre les concepts de mise en page comme le flexbox et le grid pour créer des mises en page réactives.
                                     Je suis capable de gérer les couleurs, les polices, et les espacements pour améliorer la présentation visuelle des pages.
                                 </p>
                             </div>
