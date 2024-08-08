@@ -1,5 +1,17 @@
 {
+  "extends": ["next", "next/core-web-vitals", "plugin:@typescript-eslint/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
   "rules": {
     "react/no-unescaped-entities": "off"
+    // Ajoutez d'autres règles ici si nécessaire
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
   }
 }
